@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+h3 {
+	text-align:center;
+}
+
+#sectionarriba {
+	background: #01c7ff;
+	opacity: .6;
+
+}
+
+#hrmedio {
+	width: 550px;
+}
