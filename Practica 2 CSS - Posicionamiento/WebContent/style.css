@@ -5,11 +5,103 @@ h3 {
 }
 
 #sectionarriba {
-	background: #01c7ff;
+	background: lightblue;
 	opacity: .6;
 
 }
 
 #hrmedio {
 	width: 550px;
+}
+
+#img1 {
+	width: 130px;
+	height: 100px;
+	opacity: 1.0;
+	
+}
+#img1:hover {
+	opacity: 0.5;
+}
+#img2 {
+	width: 130px;
+	height: 100px;
+	opacity: 1.0;
+}
+
+#img2:hover {
+	opacity: 0.5;
+}
+#img3 {
+	width: 130px;
+	height: 100px;
+	opacity: 1.0;
+}
+#img3:hover {
+	opacity: 0.5;
+}
+#img4 {
+	width: 130px;
+	height: 100px;
+	opacity: 1.0;
+}
+
+#img4:hover {
+	opacity: 0.5;
+}
+#img5 {
+	width: 130px;
+	height: 100px;
+	opacity: 1.0;
+}
+#img5:hover {
+	opacity: 0.5;
+}
+
+#sectionarriba1 {
+	text-align: center;
+}
+#arriba{
+	text-align: center;
+	border: blue 1rem solid;
+	font-size: 12px;
+}
+#hrgordo {
+	border: 6px solid blue;
+}
+
+#pmedio {
+	text-align: center;
+	font-size: 15px;
+
+}
+#pmedio:hover{
+	background-color: lightblue;
+	opacity: 0.6;
+	font-weight: bold;
+}
+#fotofondo {
+	background-image: url("img/valencia_vieja.jpg");
+	box-sizing: content-box;
+	width: 950px;
+	height: 165px;
+
+}
+
+#parrafobajo {
+	color:blue;
+}
+
+#sectionbajo {
+		text-align: center;
+		background: lightblue;
+	
+		
+}
+
+#imgbajo {
+	width: 270px;
+	height: 260px;
+	
+	
 }
